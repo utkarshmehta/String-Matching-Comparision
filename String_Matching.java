@@ -5,7 +5,7 @@
 
 I have  implemented Robin Kalp, Knuth Morris Pratt and BoyerMoore . For easy access for the user , 
 I have integrated these three algorithms together. So , When we compile and run the JAVA code, 
-the program asks user to enter the pattern to search in the given Text file. 
+the program asks user to enter the pattern/text/word to search in the given Text file. 
 The code takes the input string which user enters and traverses all through the code going into three different functions for all three implemented algorithms. 
 I haven’t converted the characters into upper case or lower case and made use of the original text file as it was provide and no modifications. Therefore , it doesn't matter
 whether user enters upper case or lower case, the code runs for both(upper and lower case) of them.  
